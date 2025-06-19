@@ -11,6 +11,7 @@ profile:
   more_info: >
     <p>Boltzmannstrasse 3</p>
     <p>Garching bei München</p>
+    <p>Germany</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -29,20 +30,20 @@ Welcome to my personal webpage. Thank you for visiting!
 
 I am Hannah, a PhD student, supervised by [Felix Krahmer](https://www.math.cit.tum.de/math/personen/professuren/krahmer-felix/), at [TU Munich](https://tum.de) and the [Munich Center for Machine Learning (MCML)](https://mcml.ai). 
 
-Currently I am a Visting Fellow at Harvard Universtiy in the group of [Flavio Calmon](https://people.seas.harvard.edu/~flavio/).
+Currently I am a Visting Fellow at [Harvard University](https://www.harvard.edu) in the group of [Flavio Calmon](https://people.seas.harvard.edu/~flavio/).
 
-Prior, I obtained my B.Sc in Mathematics from Goethe University Frankfurt and my M.Sc. from RWTH Aachen University. During my Master degree spend a semester abroad at POSTECH in South Korea.
+Prior I obtained my B.Sc. in Mathematics from [Goethe University Frankfurt](https://www.goethe-university-frankfurt.de/en) and my M.Sc. from [RWTH Aachen University](http://rwthaachen.de). During my Master's degree, I spent a semester abroad at [POSTECH](https://www.postech.ac.kr/eng/index.do) in South Korea.
 
 My research interests include the following areas:
 
-1. Mathematical Foundation of Machine Learning in particular in the area of inverse problems. 
+1. Mathematical Foundation of Machine Learning, in particular in the area of inverse problems. 
 
-2. Uncertainty Quantification for Machine Learning ranging from theoretical frameworks like debiased estimators and conformal prediction to applications such as medical imaging and LLMs.
+2. Uncertainty Quantification for Machine Learning, ranging from theoretical frameworks like debiased estimators and conformal prediction to applications such as medical imaging and LLMs.
 
-In both these areas I have preprints or published works, which you can find below.
+In both these areas, I have preprints or published works, which you can find below.
 
 
-If you are interested in my research interests or collaborations feel free to reach out to me via [E-mail](hannah.laus@tum.de). I am happy to talk!
+If you are interested in my research interests or collaborations, feel free to reach out to me via [E-mail](hannah.laus@tum.de). I am happy to talk!
 
 
 

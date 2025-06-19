@@ -386,12 +386,7 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-am-happy-to-share-that-i-started-my-appointment-as-visiting-fellow-at-harvard-university",
+      },{id: "news-i-am-happy-to-share-that-i-started-my-appointment-as-visiting-fellow-at-harvard-university",
           title: 'I am happy to share that I started my appointment as Visiting fellow...',
           description: "",
           section: "News",},{

@@ -48,6 +48,9 @@ ninja.data = [{
       },{id: "news-i-am-happy-to-share-that-i-started-my-appointment-as-visiting-fellow-at-harvard-university",
           title: 'I am happy to share that I started my appointment as Visiting fellow...',
           description: "",
+          section: "News",},{id: "news-i-am-happy-to-share-that-my-blogpost-about-my-time-at-harvard-is-online-check-it-out-here-https-mcml-ai-news-2025-09-17-blogpost-hannah",
+          title: 'I am happy to share that my blogpost about my time at Harvard...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',

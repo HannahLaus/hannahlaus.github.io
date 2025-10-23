@@ -30,7 +30,7 @@ Welcome to my personal webpage. Thank you for visiting!
 
 I am Hannah, a PhD student, supervised by [Felix Krahmer](https://www.math.cit.tum.de/math/personen/professuren/krahmer-felix/), at [TU Munich](https://tum.de) and the [Munich Center for Machine Learning (MCML)](https://mcml.ai). 
 
-Currently I am a Visting Fellow at [Harvard University](https://www.harvard.edu) in the group of [Flavio Calmon](https://people.seas.harvard.edu/~flavio/).
+This spring (April to June) I was a visiting fellow at [Harvard University](https://www.harvard.edu) in the group of [Flavio Calmon](https://people.seas.harvard.edu/~flavio/). If you are interested about my experience at Harvard check out my [blogpost] (https://mcml.ai/news/2025-09-17-blogpost-hannah/).
 
 Prior I obtained my B.Sc. in Mathematics from [Goethe University Frankfurt](https://www.goethe-university-frankfurt.de/en) and my M.Sc. from [RWTH Aachen University](http://rwthaachen.de). During my Master's degree, I spent a semester abroad at [POSTECH](https://www.postech.ac.kr/eng/index.do) in South Korea.
 

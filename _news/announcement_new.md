@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-I am happy to share that our paper KV Cache \emph{KV Cache Compression Through the Lens of Transform Coding} is on arXiv.
+I am happy to share that our paper KV Cache [KV Cache Compression Through the Lens of Transform Coding](https://arxiv.org/pdf/2608.14191) is on arXiv.
 
 
 

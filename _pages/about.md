@@ -30,7 +30,7 @@ Welcome to my personal webpage. Thank you for visiting!
 
 I am Hannah, a PhD student, supervised by [Felix Krahmer](https://www.math.cit.tum.de/math/personen/professuren/krahmer-felix/), at [TU Munich](https://tum.de) and the [Munich Center for Machine Learning (MCML)](https://mcml.ai). 
 
-This spring (April to June) I was a visiting fellow at [Harvard University](https://www.harvard.edu) in the group of [Flavio Calmon](https://people.seas.harvard.edu/~flavio/). If you are interested about my experience at Harvard check out my [blogpost](https://mcml.ai/news/2025-09-17-blogpost-hannah/).
+Last year in spring, I was a visiting fellow at [Harvard University](https://www.harvard.edu) in the group of [Flavio Calmon](https://people.seas.harvard.edu/~flavio/). If you are interested about my experience at Harvard check out my [blogpost](https://mcml.ai/news/2025-09-17-blogpost-hannah/).
 Prior I obtained my B.Sc. in Mathematics from [Goethe University Frankfurt](https://www.goethe-university-frankfurt.de/en) and my M.Sc. from [RWTH Aachen University](http://rwthaachen.de). During my Master's degree, I spent a semester abroad at [POSTECH](https://www.postech.ac.kr/eng/index.do) in South Korea.
 
 My research interests include the following areas:
@@ -39,10 +39,12 @@ My research interests include the following areas:
 
 2. Uncertainty Quantification for Machine Learning, ranging from theoretical frameworks like debiased estimators and conformal prediction to applications such as medical imaging and LLMs.
 
-In both these areas, I have preprints or published works, which you can find below.
+3. Key-Value Cache Compression for Large Language Models
+
+In all these areas, I have preprints or published works, which you can find below.
 
 
-If you are interested in my research interests or collaborations, feel free to reach out to me via [E-mail](hannah.laus@tum.de). I am happy to talk!
+If you are interested in my research interests or collaborations, feel free to reach out to me via [E-mail](hannah.laus@tum.de) (preferably through your institution or company email address, so I know it is not spam). I am happy to talk!
 
 
 

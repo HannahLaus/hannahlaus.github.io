@@ -51,8 +51,11 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-happy-to-share-that-my-blogpost-about-my-time-at-harvard-is-online-check-it-out-here-https-mcml-ai-news-2025-09-17-blogpost-hannah",
           title: 'I am happy to share that my blogpost about my time at Harvard...',
           description: "",
-          section: "News",},{id: "news-i-am-happy-to-share-that-our-paper-kv-cache-kv-cache-compression-through-the-lens-of-transform-coding-is-on-arxiv",
-          title: 'I am happy to share that our paper KV Cache KV Cache Compression...',
+          section: "News",},{id: "news-i-am-happy-to-share-that-our-paper-plug-in-losses-for-evidential-deep-learning-a-simplified-framework-for-uncertainty-estimation-that-includes-the-softmax-classifier-https-arxiv-org-pdf-2605-22746-is-on-arxiv",
+          title: 'I am happy to share that our paper [Plug-in Losses for Evidential Deep...',
+          description: "",
+          section: "News",},{id: "news-i-am-happy-to-share-that-our-paper-kv-cache-compression-through-the-lens-of-transform-coding-is-on-arxiv",
+          title: 'I am happy to share that our paper KV Cache Compression Through the...',
           description: "",
           section: "News",},{
         id: 'social-email',

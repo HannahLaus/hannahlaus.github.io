@@ -51,6 +51,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-happy-to-share-that-my-blogpost-about-my-time-at-harvard-is-online-check-it-out-here-https-mcml-ai-news-2025-09-17-blogpost-hannah",
           title: 'I am happy to share that my blogpost about my time at Harvard...',
           description: "",
+          section: "News",},{id: "news-i-am-happy-to-share-that-our-paper-kv-cache-emph-kv-cache-compression-through-the-lens-of-transform-coding-is-on-arxiv",
+          title: 'I am happy to share that our paper KV Cache \emph{KV Cache Compression...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',

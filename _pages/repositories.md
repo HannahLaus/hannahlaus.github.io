@@ -2,78 +2,35 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: This is the link to my Github repository.
+description: Code accompanying my papers.
 nav: true
 nav_order: 4
 ---
 
-{% if site.data.repositories.github_users %}
+### KV Cache Compression Through the Lens of Transform Coding
 
-<!--## GitHub users
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
-  {% endfor %}
-</div>
-
----
-
-{% if site.repo_trophies.enabled %}
-{% for user in site.data.repositories.github_users %}
-{% if site.data.repositories.github_users.size > 1 %}
-
-  <h4>{{ user }}</h4>
-  {% endif %}
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.liquid username=user %}
-  </div>
-
----
-
-{% endfor %}
-{% endif %}
-{% endif %}
-
-{% if site.data.repositories.github_repos %}-->
-
-## GitHub Repositories
+Code for our paper [KV Cache Compression Through the Lens of Transform Coding](https://arxiv.org/abs/2608.14191).
+It contains the implementation of Attention-Aware Transform Coding (AATC) together with the scripts to reproduce the experiments.
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
-  {% endfor %}
+  {% include repository/repo.liquid repository="HannahLaus/aatc-kv-cache-transform-coding" %}
 </div>
-{% endif %}
 
-<style>
-  .repo-card {
-    display: block; flex: 1 1 320px; max-width: 480px; margin: 0.5rem;
-    padding: 1rem 1.25rem; border: 1px solid var(--global-divider-color);
-    border-radius: 8px; background: var(--global-card-bg-color);
-    color: var(--global-text-color); text-decoration: none;
-    transition: border-color 0.15s, transform 0.15s;
-  }
-  .repo-card:hover {
-    border-color: var(--global-theme-color); transform: translateY(-2px);
-    text-decoration: none; color: var(--global-text-color);
-  }
-  .repo-card-title { font-weight: 600; color: var(--global-theme-color); }
-  .repo-card-desc { margin: 0.5rem 0; font-size: 0.9rem; }
-  .repo-card-meta { font-size: 0.8rem; opacity: 0.7; }
-</style>
-<script>
-  document.querySelectorAll(".repo-card").forEach(async (card) => {
-    try {
-      const r = await fetch("https://api.github.com/repos/" + card.dataset.repo);
-      if (!r.ok) return;
-      const d = await r.json();
-      card.querySelector(".repo-card-desc").textContent = d.description || "";
-      const meta = [];
-      if (d.language) meta.push(d.language);
-      meta.push(d.stargazers_count + " stars");
-      meta.push(d.forks_count + " forks");
-      card.querySelector(".repo-card-meta").textContent = meta.join("  |  ");
-    } catch (e) {}
-  });
-</script>
+### Imaging with Confidence: Uncertainty Quantification for High-Dimensional Undersampled MR Images
+
+Code for our paper [Imaging with Confidence](https://link.springer.com/chapter/10.1007/978-3-031-73229-4_25).
+It implements the debiased total-variation estimator and the confidence-interval construction for undersampled MRI reconstruction.
+
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% include repository/repo.liquid repository="HannahLaus/Project_UQ_TV" %}
+</div>
+
+### Non-Asymptotic Uncertainty Quantification in High-Dimensional Learning
+
+Code for our NeurIPS 2024 paper [Non-Asymptotic Uncertainty Quantification in High-Dimensional Learning](https://arxiv.org/abs/2407.13666),
+maintained by my coauthor Frederik Hoppe. It contains the MRI reconstruction experiments with U-Net and It-Net,
+the debiased-estimator confidence intervals, and the model-based sparse regression experiments.
+
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% include repository/repo.liquid repository="frederikhoppe/UQ_high_dim_learning" %}
+</div>
